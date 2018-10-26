@@ -20,7 +20,7 @@ include 'post2.php';
 <html lang="eng">
 <head>
 <meta charset="utf-8">
-<title> Books</title>
+<title> BACHELOR </title>
 
 
 
